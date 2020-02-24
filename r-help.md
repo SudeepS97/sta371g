@@ -3,6 +3,7 @@
 Short R help pages are available on a variety of topics:
 
 * [Loading and saving data](info-pages/loading-and-saving-data.md)
+* [Filtering data](info-pages/filtering-data.md)
 * [Simple regression](info-pages/simple-regression.md)
 * [Multiple regression](info-pages/multiple-regression-basics.md)
 * [Dummy variables](info-pages/dummy-variables.md)
