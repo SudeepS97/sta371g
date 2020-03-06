@@ -90,7 +90,7 @@ carsKeepRow
     ## 3  18         8          318 150   3436           11        No     US
 
 And now let’s try to get every row EXCEPT for row 2-4 (thus, removing
-the row from the dataset)
+the row from the dataset).
 
 ``` r
 carsDropRow <- cars[-c(2:4),]
@@ -307,5 +307,5 @@ cars4 = cars[6:10,]
 dfStack = bind_rows(cars3, cars4) #make sure columns are the same!!!
 ```
 
-You can view more code pertaining to data cleaning
-[here]('https://resources.rstudio.com/rstudio-developed/data-transformation')
+You can view more code pertaining to data cleaning here:
+‘<a href="https://resources.rstudio.com/rstudio-developed/data-transformation" class="uri">https://resources.rstudio.com/rstudio-developed/data-transformation</a>’
